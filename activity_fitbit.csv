@@ -1,4 +1,4 @@
-Date,Calories Burned,Steps,Distance,Floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories
+date,calories,steps,distance,floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories
 "2017-02-01","1,537","2,255","1.63","4","1,343","97","0","0","269"
 "2017-02-02","1,697","4,152","2.92","7","984","169","0","0","486"
 "2017-02-03","1,597","2,701","1.85","7","793","127","0","0","342"
