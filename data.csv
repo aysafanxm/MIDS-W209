@@ -1,4 +1,4 @@
-datecaloriesStepsDistanceFloorsMinutes SedentaryMinutes Lightly ActiveMinutes Fairly ActiveMinutes Very ActiveActivity Calories
+date,calories,steps,distance,floors,Minutes Sedentary,Minutes Lightly Active,Minutes Fairly Active,Minutes Very Active,Activity Calories
 2017-02-01,1537,2255,1.63,4,1343,97,0,0,269
 2017-02-02,1697,4152,2.92,7,984,169,0,0,486
 2017-02-03,1597,2701,1.85,7,793,127,0,0,342
